@@ -127,6 +127,18 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/umair-a-siddiqui/umair-a-siddiqui/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/umair-a-siddiqui/umair-a-siddiqui/output/github-snake.svg" />
+    <img alt="snake animation eating contribution graph" src="https://raw.githubusercontent.com/umair-a-siddiqui/umair-a-siddiqui/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
 ## 💬 Dev Quote
 
 <p align="center">
